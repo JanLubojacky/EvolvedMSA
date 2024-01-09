@@ -1,0 +1,22 @@
+>target sequence: 50
+acattgcctagggaaccccatgggtaacccaaggatagctgactgcaaat
+>sequence 1
+---cagcctaggacccatgg---acc--aaggagactca-a------
+>sequence 2
+acatgcctaggaacccatgg-taaccc-aagatagctg--tgcaaa-
+>sequence 3
+acatgcctagggaccccagg-taacccaaggatagcta--tgcaaat
+>sequence 4
+-aatgcctaggaacccatgg-taacc--aagatagtga--cgcaa--
+>sequence 5
+aattgccagggaacccatgg-taacc--aaggaagctgactgcaat-
+>sequence 6
+-actgcctagaaccccatgggtaaccc-aggatagctg--actcaat
+>sequence 7
+-aatcctaggaaccccatgggtaaccc-aggatagctg--accaa--
+>sequence 8
+---acttgtagggcccaggg-taacc--caaatagctg--tcaaat-
+>sequence 9
+---acagctagggccccagg-taacc--caaggagctg--actcat-
+>sequence 10
+---atgccgggaacccatgg--gacc--cagatagctg--agcaat-
